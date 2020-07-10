@@ -1,1 +1,2 @@
 firstVar = 'Hello'
+secondVar = 'World'
